@@ -181,4 +181,10 @@
     .search-box div{
         gap: 5px;
     }
+    .main .cards{
+        margin-bottom: 50px;
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+   
 }
